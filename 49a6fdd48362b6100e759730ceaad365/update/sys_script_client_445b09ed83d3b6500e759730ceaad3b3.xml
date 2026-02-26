@@ -6,7 +6,7 @@
         <description>Set the Requester to the currently logged in user for new Wish Item records. Users can change the field value.</description>
         <field/>
         <global>true</global>
-        <isolate_script>true</isolate_script>
+        <isolate_script>false</isolate_script>
         <messages/>
         <name>Wish Item Set Requester</name>
         <order/>
@@ -25,7 +25,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>445b09ed83d3b6500e759730ceaad3b3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Wish Item Set Requester</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wish List" source="x_1793231_wish_lis">49a6fdd48362b6100e759730ceaad365</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="Wish List">49a6fdd48362b6100e759730ceaad365</sys_scope>
         <sys_update_name>sys_script_client_445b09ed83d3b6500e759730ceaad3b3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-02-26 04:09:46</sys_updated_on>
+        <sys_updated_on>2026-02-26 14:10:48</sys_updated_on>
         <table>x_1793231_wish_lis_wish_item</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>
